@@ -4,8 +4,8 @@ MSc Data Science
 Applying data and machine learning to uncover patterns, understand systems, and create meaningful impact.  
 
 📫 How to reach me:
-- [Email](mailto:aimiliakollia14@gmail.com)
-[Email](https://mail.google.com/mail/?view=cm&to=aimiliakollia14@gmail.com)
+- [Email](https://mail.google.com/mail/?view=cm&to=aimiliakollia14@gmail.com) - 
+aimiliakollia14@gmail.com
 
 - [LinkedIn](https://www.linkedin.com/in/aimilia-kollia-03b049269/)
 ---
