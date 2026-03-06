@@ -51,6 +51,11 @@ aimiliakollia14@gmail.com
 
 ---
 
+### 📈 Data Visualization
+- **[Retail Sales Dashboard (Power BI)](https://github.com/AimiliaKollia/Retail_Sales_Dashboard_PowerBI)**  
+  Interactive dashboard analyzing 2024 retail performance across Region, Store, Product Category, and Time with KPIs like Revenue, Quantity Sold, Profit Margin, and detailed product/store insights.
+---
+
 ## Tech Stack
 - Python · NumPy · pandas · scikit-learn  · matplotlib  · seaborn
 - PyTorch / TensorFlow / Keras
