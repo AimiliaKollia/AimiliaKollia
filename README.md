@@ -54,6 +54,9 @@ aimiliakollia14@gmail.com
 ### 📈 Data Visualization
 - **[Retail Sales Dashboard (Power BI)](https://github.com/AimiliaKollia/Retail_Sales_Dashboard_PowerBI)**  
   Interactive dashboard analyzing 2024 retail performance across Region, Store, Product Category, and Time with KPIs like Revenue, Quantity Sold, Profit Margin, and detailed product/store insights.
+
+- **[ESA Member States - Space Investment Dashboard (PowerBI)](https://github.com/AimiliaKollia/ESA-Member_States-Space_Investment-PowerBI_Dashboard)**
+  Power BI dashboard analysing ESA Member States' 2022 space investments integrating multi-source data (ESPI and Eurostat data).
 ---
 
 ## Tech Stack
