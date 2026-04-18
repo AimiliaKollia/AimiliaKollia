@@ -51,7 +51,17 @@ aimiliakollia14@gmail.com
 
 ---
 
+### 🏗️ Big Data Architectures & Data Engineering
+- **[Distributed Investment Analytics Platform](https://github.com/AimiliaKollia/Distributed-Investment-Analytics-Platform)**  
+  Real-time financial data pipeline using Apache Kafka, Spark, MySQL, and MongoDB to simulate stock exchanges and portfolio analytics.
+
+---
+
 ### 📈 Data Visualization
+
+- **[Airline Loyalty Program Analytics Dashboard (Power BI)](https://github.com/AimiliaKollia/Loyalty_Program-Analytics-PowerBI_Dashboard)**  
+  Interactive Power BI dashboard analyzing customer behavior, segmentation, and promotional campaign performance in an airline loyalty program.
+  
 - **[Retail Sales Dashboard (Power BI)](https://github.com/AimiliaKollia/Retail_Sales_Dashboard_PowerBI)**  
   Interactive dashboard analyzing 2024 retail performance across Region, Store, Product Category, and Time with KPIs like Revenue, Quantity Sold, Profit Margin, and detailed product/store insights.
 
